@@ -1,0 +1,3 @@
+export const BaseUrl = 'https://api.themoviedb.org/3'
+
+export const API_KEY = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhNDUwZmRkOTRlMGY4MTFlOGZiZTAwZDRhOTQ3N2M1MiIsInN1YiI6IjY0NmEyYjM2YTUwNDZlMDEwNThiZjJhZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.7p9l5ad8WZEy5vJVqYa9kw_ONCp-2D2CNdxer7Slf6Y'
